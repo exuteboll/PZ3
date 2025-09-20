@@ -1,0 +1,11 @@
+C:\Users\exute\source\repos\yaica\bin\Debug\yaica.exe.config
+C:\Users\exute\source\repos\yaica\bin\Debug\yaica.exe
+C:\Users\exute\source\repos\yaica\bin\Debug\yaica.pdb
+C:\Users\exute\source\repos\yaica\obj\Debug\yaica.csproj.AssemblyReference.cache
+C:\Users\exute\source\repos\yaica\obj\Debug\yaica.Form1.resources
+C:\Users\exute\source\repos\yaica\obj\Debug\yaica.Properties.Resources.resources
+C:\Users\exute\source\repos\yaica\obj\Debug\yaica.csproj.GenerateResource.cache
+C:\Users\exute\source\repos\yaica\obj\Debug\yaica.csproj.CoreCompileInputs.cache
+C:\Users\exute\source\repos\yaica\obj\Debug\yaica.exe
+C:\Users\exute\source\repos\yaica\obj\Debug\yaica.pdb
+C:\Users\exute\source\repos\yaica\obj\Debug\yaica.exe.config
